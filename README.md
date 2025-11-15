@@ -19,9 +19,6 @@ Checkout my portfolio-[aman-codes.vercel.app](https://aman-codes.vercel.app)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🌱 Currently Working on
-Building a issue tracker with roles based operations.\
-Developing a collaborative whiteboard tool with real-time data sync and interactive features for seamless teamwork.
 
 ## 📫 Get in Touch
 Let's connect on [LinkedIn](https://www.linkedin.com/in/aman-prajapati-540a53277/) and [X](https://x.com/amannprajapati).
