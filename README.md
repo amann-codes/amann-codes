@@ -1,6 +1,6 @@
 # Hi, I'm Aman 👋
 
-I'm a 21-year-old developer with a passion for **web development**. I'm currently learning and building projects in this exciting field. I enjoy working with modern web technologies and constantly exploring new tools to enhance my skills.\
+I'm a 22-year-old developer with a passion for **web development**. I'm currently learning and building projects in this exciting field. I enjoy working with modern web technologies and constantly exploring new tools to enhance my skills.\
 Checkout my portfolio-[aman-codes.site](https://aman-codes.site)
 ## 🛠️ Tech Stack
 
@@ -11,6 +11,7 @@ Checkout my portfolio-[aman-codes.site](https://aman-codes.site)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -21,6 +22,6 @@ Checkout my portfolio-[aman-codes.site](https://aman-codes.site)
 
 
 ## 📫 Get in Touch
-Let's connect on [LinkedIn](https://www.linkedin.com/in/aman-prajapati-540a53277/) and [X](https://x.com/amannprajapati).
+Let's connect on [LinkedIn](https://www.linkedin.com/in/aman-prajapati-540a53277/) and [X](https://x.com/amanncodes).
 
 Looking forward to connecting with you!
